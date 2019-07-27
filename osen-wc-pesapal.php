@@ -1,11 +1,15 @@
 <?php
-/*
-Plugin Name: Pesapal Woocommerce
-Description: Add PesaPal payment gateway to your Woocommerce plugin
-Version: 1.1.9.3
-Author: rixeo
-Author URI: http://thebunch.co.ke/
-Plugin URI: http://dev.thebunch.co.ke/
+/**
+ * Plugin Name: Pesapal Woocommerce
+ * Description: Add PesaPal payment gateway to your Woocommerce plugin
+ * Version: 1.1.9.3 
+ * Author: rixeo
+ * Author URI: http://thebunch.co.ke/
+ * Plugin URI: http://dev.thebunch.co.ke/
+ * 
+ * WC requires at least: 3.0.0
+ * WC tested up to: 3.6.5
+ * 
 */
 
 if (!defined('ABSPATH'))
